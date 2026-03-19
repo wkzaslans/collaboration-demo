@@ -1,2 +1,4 @@
 Collaboration Demo Project
 Version 1.0
+
+New feature: user collaboration support
